@@ -12,3 +12,5 @@ int crap_isstreq(const char* a, const char* b){
   }
   return 0;
 }
+
+// these are C functions we want exposed to Lua
